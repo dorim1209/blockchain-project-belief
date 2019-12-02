@@ -23,3 +23,13 @@
 ![image](https://user-images.githubusercontent.com/43080040/67139657-9378f880-f28d-11e9-9609-70f0df6d4ac6.png)
 ![image](https://user-images.githubusercontent.com/43080040/67139662-9b389d00-f28d-11e9-8e06-3cae1f8fcb08.png)
 
+- 시연 영상
+
+  - 출근시
+
+    ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/50814969/69945322-a89fa300-152c-11ea-8902-29525489af9a.gif)
+
+  - 퇴근시
+
+    ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/50814969/69945298-9faed180-152c-11ea-99f5-df11583eecca.gif)
+
